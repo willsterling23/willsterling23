@@ -30,9 +30,9 @@ As the co-founder of **Lavaboots Studios**, I have architected, shipped, and sup
 *(Sept 2014 – Present)*
 
 #### **Shipped Titles**
-*  **Salt 2: Shores of Gold**
-*  **Salt**
-*  **Wild West and Wizards**
+*  **[Salt 2: Shores of Gold (PC / PS5)](https://store.steampowered.com/app/1574900/Salt_2_Shores_of_Gold/)**
+*  **[Salt (PC)](https://store.steampowered.com/app/327860/Salt/)**
+*  **[Wild West and Wizards (PC)](https://store.steampowered.com/app/1071290/Wild_West_and_Wizards/)**
 
 #### **Core Technical Highlights**
 * **Systems Architecture:** Architected and implemented core gameplay frameworks including procedural inventory, dynamic weather simulations, custom AI behavior trees, and player progression systems.
