@@ -1,13 +1,13 @@
-# Hi, I'm William Sterling 👋
+# Hi, I'm Will. 
 
 ### **Game Developer | Software Engineer**
-📍 Huntsville, AL  
+Huntsville, AL  
 📧 [willsterling23@gmail.com](mailto:willsterling23@gmail.com)  
 🌐 [Portfolio & Studio (Lavaboots)](https://www.lavaboots.com)
 
 ---
 
-## 🚀 About Me
+## About Me
 
 Game Developer and Software Engineer with **4+ years of systems architecture experience** and **10+ years designing and shipping commercial games** in Unity. 
 
@@ -15,7 +15,7 @@ As the co-founder of **Lavaboots Studios**, I have architected, shipped, and sup
 
 ---
 
-## 🛠️ Technical Stack & Tools
+## Technical Stack & Tools
 
 * **Languages:** C# (Primary), C++, Python
 * **Engines & Frameworks:** Unity, Unreal Engine, .NET
@@ -24,15 +24,15 @@ As the co-founder of **Lavaboots Studios**, I have architected, shipped, and sup
 
 ---
 
-## 🎮 Shipped Projects & Experience
+## Shipped Projects & Experience
 
 ### **Co-founder & Software Engineer** — *Lavaboots Studios*
 *(Sept 2014 – Present)*
 
 #### **Shipped Titles**
-* ⚔️ **Salt 2: Shores of Gold**
-* ⛵ **Salt**
-* 🧙 **Wild West and Wizards**
+*  **Salt 2: Shores of Gold**
+*  **Salt**
+*  **Wild West and Wizards**
 
 #### **Core Technical Highlights**
 * **Systems Architecture:** Architected and implemented core gameplay frameworks including procedural inventory, dynamic weather simulations, custom AI behavior trees, and player progression systems.
@@ -43,12 +43,12 @@ As the co-founder of **Lavaboots Studios**, I have architected, shipped, and sup
 
 ---
 
-## 🎓 Education
+##  Education
 
-* **B.S. in Software Engineering** — *Western Governors University* (Expected Dec 2026)
+* **B.S. in Software Engineering** — *Western Governors University*
 
 ---
 
-### 📬 Connect With Me
+### Connect With Me
 * **Website:** [lavaboots.com](https://www.lavaboots.com)
 * **Email:** [willsterling23@gmail.com](mailto:willsterling23@gmail.com)
