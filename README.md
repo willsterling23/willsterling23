@@ -19,7 +19,7 @@ As the co-founder of **Lavaboots Studios**, I have architected, shipped, and sup
 
 * **Languages:** C# (Primary), C++, Python
 * **Engines & Frameworks:** Unity, Unreal Engine, .NET
-* **Systems Engineering:** Gameplay Mechanics, AI Behaviors, Weather Simulation, Inventory Systems, Multiplayer Networking
+* **Systems Engineering:** Gameplay Mechanics, AI Behaviors, Inventory Systems, Simulation Systems
 * **Tools & Workflows:** Git, Steamworks, JetBrains Rider, Visual Studio, Jira, Confluence, Agile/Scrum
 
 ---
