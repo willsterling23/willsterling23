@@ -3,7 +3,7 @@
 ### **Game Developer | Software Engineer**
 Huntsville, AL  
 📧 [willsterling23@gmail.com](mailto:willsterling23@gmail.com)  
-🌐 [Portfolio]([https://www.lavaboots.com](https://willsterling23.github.io/)
+🌐 [Portfolio](https://willsterling23.github.io/)
 
 ---
 
